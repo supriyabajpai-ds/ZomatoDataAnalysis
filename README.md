@@ -143,6 +143,21 @@ Some cuisines consistently receive higher ratings, indicating strong customer sa
 <p>
 This visualization shows which cities have the highest concentration of restaurants in the dataset.
 </p>
+<h3>🔗 Pairwise Relationship Between Ratings and Cost</h3>
+
+<p>
+This pairplot visualizes the relationships between <b>Delivery Ratings</b>, 
+<b>Dinner Ratings</b>, <b>Overall Ratings</b>, and <b>Average Cost</b>. 
+The scatter plots show how these variables interact with each other, while 
+the diagonal histograms display the distribution of each variable.
+</p>
+
+<img src="images/relationship_between_rating.png" width="700">
+<p>
+From the visualization, we can observe that <b>Dinner Ratings and Overall Ratings show a strong positive relationship</b>, 
+while <b>Average Cost tends to increase with higher ratings in some cases</b>. 
+This plot helps identify correlations, patterns, and potential outliers in the dataset.
+</p>
 
 <hr>
 
